@@ -29,3 +29,5 @@ fi
 echo "$RESULTS"
 echo ""
 echo "Total: $(echo "$RESULTS" | wc -l) file(s)"
+
+

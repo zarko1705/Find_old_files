@@ -1,4 +1,4 @@
-Project spec
+# Project spec
 
 # Goal:
 
